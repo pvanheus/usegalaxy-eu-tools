@@ -115,6 +115,7 @@ tools:
   owner: bgruening
   revisions:
   - 6d8444408ff1
+  - 6d8be3337e2a
   - a6318f87f2cd
   - abba05ead5d7
   - d6ede73082da
@@ -199,6 +200,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
   - f6065bc6e428
@@ -1149,6 +1151,7 @@ tools:
   - 49b4ee0d0965
   - c081e5e1d7ce
   - e7b4afedc471
+  - ec6df5e22055
   tool_panel_section_label: Machine Learning
 - name: whisper
   owner: bgruening
