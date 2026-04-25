@@ -336,6 +336,7 @@ tools:
 - name: wordcloud
   owner: bgruening
   revisions:
+  - 45c4cc885ddb
   - 54c2d8ebf0cf
   - 57e3de4b3b0d
   - 6055ffae8903
@@ -417,6 +418,7 @@ tools:
   - e4af79bffd57
   - ed7c222e47e3
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
@@ -449,6 +451,7 @@ tools:
   - 03f61bb3ca43
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 6ecb3d77d46e
   - 785dd890e27d
@@ -507,6 +510,7 @@ tools:
   - 9991c4ddde14
   - af7ed4d45619
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   - db511406350a
   - eae46976fbb8
@@ -544,6 +548,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 25cc25ea10b8
@@ -625,6 +630,7 @@ tools:
   - 95d0f81e46e8
   - 9bb505eafac9
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_label: Machine Learning
@@ -632,6 +638,7 @@ tools:
   owner: bgruening
   revisions:
   - 0087d6db4290
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1682df52c084
@@ -699,6 +706,7 @@ tools:
   - 5276bdb49315
   - 5773e98921fc
   - 58322d3c7bd3
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 8a307b946c58
@@ -742,6 +750,7 @@ tools:
   - 2fc89dcd41c8
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 616a241c5b37
   - 63417d0acc72
   - 67881a837f46
@@ -778,6 +787,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 1b7ab45c7858
   - 27f8bd20a936
   - 3045d322d4ac
@@ -827,6 +837,7 @@ tools:
   - 60b8a683ba99
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 845dfafac355
   - 86e1e2874460
@@ -860,6 +871,7 @@ tools:
   - 7ae443e6217d
   - 823ecc0bce45
   - 8b1b2b91f8d0
+  - 900c42c3eef4
   - 9871a634540f
   - aa83e7e3c398
   - c030e4bb1b39
@@ -910,6 +922,7 @@ tools:
   - 226524df8c6c
   - 26ae8c074d95
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 62945303e6bd
   - 7366e5108e9f
@@ -970,6 +983,7 @@ tools:
   - 9c8ede554b7c
   - a152c1d23379
   - b4ebe47701e4
+  - c78a5fc9e758
   - dc17e2878dc1
   - f04a2405f3fe
   - f5dcb87fd14e
@@ -1031,6 +1045,7 @@ tools:
   - d709e2d0d199
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
@@ -1094,6 +1109,7 @@ tools:
   - a4f18bbb4eca
   - caeb57858702
   - ec69cbe34b73
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_label: Machine Learning
 - name: sklearn_train_test_eval
@@ -1141,6 +1157,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   - fc0f9ba14aaa
   tool_panel_section_label: Machine Learning
 - name: tabpfn
@@ -1152,6 +1169,7 @@ tools:
   - c081e5e1d7ce
   - e7b4afedc471
   - ec6df5e22055
+  - f0c7f0bad621
   tool_panel_section_label: Machine Learning
 - name: whisper
   owner: bgruening
