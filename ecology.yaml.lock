@@ -673,6 +673,7 @@ tools:
   - 04f34751dae3
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86c5b627ddb6
@@ -733,6 +734,7 @@ tools:
   - 226524df8c6c
   - 26ae8c074d95
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -767,6 +769,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 4bbaf77573ef
   - 73e7f1c76ece
@@ -811,6 +814,7 @@ tools:
   - 46b43ee6d367
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -845,6 +849,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 25cc25ea10b8
@@ -908,6 +913,7 @@ tools:
   - 2fc89dcd41c8
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 616a241c5b37
   - 913bf1c4c7bb
   - 927586a18553
@@ -948,6 +954,7 @@ tools:
   - 318484f56b6a
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
@@ -993,6 +1000,7 @@ tools:
   revisions:
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5

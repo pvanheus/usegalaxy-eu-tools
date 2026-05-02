@@ -6,6 +6,7 @@ tools:
   owner: iuc
   revisions:
   - 1bb2ba6d3d96
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - 78c75f134c16
@@ -29,6 +30,7 @@ tools:
   revisions:
   - 1920244e2895
   - 2fa74a3f6670
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_label: Annotation
 - name: annotatemyids
@@ -2355,6 +2357,7 @@ tools:
   - 350c736075eb
   - 3e2551a37201
   - 415fd81b85d3
+  - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
   - 6c2351178f8d
@@ -2560,6 +2563,7 @@ tools:
   - da336e3ead38
   - e462044ece67
   - eee1a2f6abd8
+  - f48b35baf365
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqc
   owner: devteam
@@ -3315,6 +3319,7 @@ tools:
   - d78faac2c6ef
   - d951c5b0edd1
   - da8260eba74b
+  - f0872b88c5fc
   tool_panel_section_label: Get Data
 - name: pysradb_search
   owner: iuc
@@ -3639,6 +3644,7 @@ tools:
   - 11c344627e52
   - 2f557f6abbfb
   - 3af838dc0637
+  - 3d5b9e4df7ba
   - 59ebf2c42c0e
   - 5e08a1e22dbc
   - 6d532d760950
@@ -4854,6 +4860,7 @@ tools:
   - 61acf8a76396
   - 6b8580e02e99
   - 77000428c613
+  - b0b7bba11507
   - bd518ee51da5
   - c14c7fd4d1be
   - e9168eec404c
@@ -4883,6 +4890,7 @@ tools:
   - 4b023017896a
   - 7f712eb18230
   - 943c2ae9594a
+  - 96bc42baaa74
   - de6156c8ef16
   - e595eafb5ecf
   - f360e09dd04b
@@ -4913,6 +4921,7 @@ tools:
   - b8ecbc50af78
   - cdba4eab5a54
   - dfb9413825cc
+  - e0b095891b28
   - f309f1ef68f3
   - ff9bc9357c89
   tool_panel_section_label: Metagenomic Analysis
@@ -9561,6 +9570,7 @@ tools:
   - 1c2db0054039
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5
@@ -10082,6 +10092,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_label: RNA Analysis
 - name: isoformswitchanalyzer
   owner: iuc
@@ -10301,6 +10312,7 @@ tools:
   - 4341b8ff2a46
   - 74fa68f4e579
   - 7704fb998596
+  - 7c728a178c4d
   tool_panel_section_label: RNA Analysis
 - name: seurat_reduce_dimension
   owner: iuc
@@ -10741,6 +10753,7 @@ tools:
   - 6a8febad1f6c
   - 77889ed49dbc
   - a941babb9268
+  - d2f176e331ef
   - f20b704ba069
   - f597cb9b33bf
   tool_panel_section_label: SAM/BAM
@@ -10808,6 +10821,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 41e36c99a008
   - 595ae1ba934a
   - 68a116f469db
@@ -10930,6 +10944,7 @@ tools:
   - adc4ed59d82b
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   - fea1a167b822
   tool_panel_section_label: SAM/BAM
 - name: samtools_sort
@@ -11009,6 +11024,7 @@ tools:
   revisions:
   - 2fe966f8532e
   - 32ea013ae290
+  - 4413217d872c
   - 5854d0da92b4
   - 5cd5d0947354
   - 69f93450c57d
@@ -11225,6 +11241,7 @@ tools:
   owner: iuc
   revisions:
   - 05631436cdf1
+  - 0ee9395e1eb2
   - 0f1aaff9b22d
   - 4b0adaa31c95
   - 4c9fa3c63d9e
@@ -13671,6 +13688,7 @@ tools:
   - 4877dfefaacc
   - 539b008cfe1c
   - 54871a78828e
+  - 8367be242f35
   - 8c533e19b697
   - 9002633b4737
   - 90b4d4f0a3a4

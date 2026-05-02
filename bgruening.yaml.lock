@@ -195,6 +195,7 @@ tools:
   owner: bgruening
   revisions:
   - 1f9f2edc8cf4
+  - 45d0307149b4
   - bdfd7cef3438
   tool_panel_section_label: Assembly
 - name: mitohifi
@@ -381,6 +382,7 @@ tools:
   - 305c1229ac99
   - 33d8be959bf3
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -424,6 +426,7 @@ tools:
   owner: bgruening
   revisions:
   - 00b2ee48b412
+  - 00d1889e9ecc
   - 01131463df86
   - 0c933465d70e
   - 0fd7d8e90e2a
@@ -474,6 +477,7 @@ tools:
   - 14bd6d59650d
   - 1588f9076e32
   - 177d0766e2fb
+  - 1d2a478bb514
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
@@ -526,6 +530,7 @@ tools:
   - 3519f6003259
   - 3f25f37ee3db
   - 3f3c6dc38f3e
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 653be9c354ec
   - 664666bd14ec
@@ -600,6 +605,7 @@ tools:
   - b75cae00f980
   - c72131b8fc7a
   - d6b8103c909c
+  - dde13d557dc4
   - eb79bde99328
   - eb9da067ab26
   - f2234165a453
@@ -668,6 +674,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 2ad4c2798be7
   - 30d21a6041f6
   - 375bbd555f4a
@@ -739,6 +746,7 @@ tools:
   - cf54bae8ad42
   - da9f0b8ca61c
   - e00c1c9d206b
+  - e8694d796a7e
   - eaddff553324
   - f5e6fb49e9ee
   - f73a2b68a37b
@@ -782,6 +790,7 @@ tools:
   - 5e1581dfb419
   - 6c1c7a89d333
   - 9b067af194b7
+  - ac52a5916963
   - e8d6b4acb7c6
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -817,6 +826,7 @@ tools:
   - 8e447b95e6a8
   - 8f469d961e30
   - 9084156b2bb5
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -887,6 +897,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 27903ce9b4be
   - 2d7c60aa6c62
@@ -957,6 +968,7 @@ tools:
   - e36ab18cbaca
   - e3b3f375b61e
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
   owner: bgruening
@@ -999,6 +1011,7 @@ tools:
   - 4ba68dd788b3
   - 52ea044c667f
   - 6b14fe097541
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86a086d2bbed
@@ -1077,6 +1090,7 @@ tools:
   - 295c383c3282
   - 2df8f5c30edc
   - 372582a7a34d
+  - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
   - 6d23883e0b94
@@ -1119,6 +1133,7 @@ tools:
   - 1b68acd5ac08
   - 20bb2a45f922
   - 2b8406e74f9e
+  - 418cafc53f8e
   - 443471b0a27a
   - 4d1637cac794
   - 68aaa903052a
@@ -1415,6 +1430,7 @@ tools:
   - 318484f56b6a
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 648b81bca7c5
   - 6d1a9fae57eb
   - 92e09b827300
