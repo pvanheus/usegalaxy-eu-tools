@@ -1275,6 +1275,7 @@ tools:
   revisions:
   - 3f33a8ac8891
   - 66058890173e
+  - 95b0a646932e
   tool_panel_section_label: Metagenomic Analysis
 - name: mafft
   owner: rnateam
