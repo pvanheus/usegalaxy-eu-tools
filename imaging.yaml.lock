@@ -544,6 +544,7 @@ tools:
   revisions:
   - 7baf811ed973
   - c8bb47840c8d
+  - ec82bbbeb775
   - f3c9192bd0b9
   - f7ae316b00e4
   tool_panel_section_label: Imaging
@@ -561,6 +562,7 @@ tools:
   revisions:
   - 056e74fbbf6c
   - 1f92b1da556b
+  - 93cb13a320fe
   - edfc597fb180
   - ef3de3e84817
   tool_panel_section_label: Imaging
@@ -642,6 +644,7 @@ tools:
   - 7f9840d3b7e7
   - 95fb6fa70c2f
   - bd2aadf0f589
+  - c9e87324073c
   tool_panel_section_label: Imaging
 - name: imagej2_make_binary
   owner: imgteam
@@ -659,6 +662,7 @@ tools:
   - 49e29abe0fce
   - 4c43ba752312
   - a84f2cbf091b
+  - f4e396f032fc
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
