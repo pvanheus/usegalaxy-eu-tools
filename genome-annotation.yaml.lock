@@ -105,6 +105,7 @@ tools:
   - 2dd755c1c6ff
   - 4048d82f0c88
   - 41030a6c03b7
+  - 4443b4dda2e9
   - 46ae58b1d792
   - 4e70d88adf2f
   - 5ecdeca79a0d
@@ -213,12 +214,14 @@ tools:
   - 07d7991bf205
   - 2aea122fbd25
   - 661c164268cc
+  - 661f6905c142
   - 79261884facd
   - b12ff7a3ee41
   tool_panel_section_label: Annotation
 - name: transit_gumbel
   owner: iuc
   revisions:
+  - 3b1e4eb22a7c
   - 8fc50fe60127
   - a6c8b6e47c51
   - ecce0cbe659f
@@ -228,6 +231,7 @@ tools:
   owner: iuc
   revisions:
   - 532a84f0de1e
+  - 6dbde7d2485e
   - 7db455b6434b
   - a15f2773a7d7
   - d6b029a6de63
@@ -239,12 +243,14 @@ tools:
   - 885459e1c83b
   - a05b6a392ff0
   - ad4d42fabf32
+  - ed51b2277b0d
   tool_panel_section_label: Annotation
 - name: transit_tn5gaps
   owner: iuc
   revisions:
   - 3f5fc4b09496
   - 4aaabd55eab8
+  - 738875f13f9c
   - c68753eedf72
   - d516fc63b6e5
   tool_panel_section_label: Annotation
@@ -258,6 +264,7 @@ tools:
   revisions:
   - 1b08e39cc52d
   - 7bc75dd0f782
+  - a3586bccb95f
   - c2fc4ac35199
   - cef77c1fe708
   - e3846dc36c4d
@@ -267,6 +274,7 @@ tools:
   owner: artbio
   revisions:
   - 555971edd46e
+  - 6915807944fc
   - bebb4f9eba4f
   - cb5691381acb
   tool_panel_section_label: Variant Calling
@@ -324,6 +332,7 @@ tools:
   - 47f9f4d13d2c
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - f421fd0c42ea
   - fc7334661489

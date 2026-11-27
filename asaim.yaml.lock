@@ -7,6 +7,8 @@ tools:
   revisions:
   - 1790dcf3c32d
   - 1ec814014652
+  - 281a608c78fb
+  - 2b2eb47e8e84
   - 494b2ec08162
   - 4df8de2d0e48
   - 516a54ddf218
@@ -18,7 +20,6 @@ tools:
   - 734abc7ac21d
   - 751a694ec620
   - 83c7d564b128
-  - 8848455c0270
   - aad3885b3216
   - b723c120161a
   - ba931a59dd59
@@ -47,6 +48,7 @@ tools:
   - 1ee282794de3
   - 654b3a274ed5
   - 6b865dde1baa
+  - dbd2e239117c
   tool_panel_section_label: FASTA/FASTQ
 - name: trim_galore
   owner: bgruening
@@ -89,6 +91,7 @@ tools:
   - bf675f34b056
   - c19b16e5729c
   - c1a4b5f3b432
+  - ca7fced90f71
   - d2aaac19f42f
   - e4574a4d09d8
   - e4dd4c0622f6
@@ -161,6 +164,7 @@ tools:
 - name: vsearch
   owner: iuc
   revisions:
+  - 010235ce52d2
   - 9495df9dd6ef
   - b3c7199d8786
   - fae6527990af
@@ -179,9 +183,10 @@ tools:
   - 02a822e32de7
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 792acb18fb24
   - 98242353faa4
+  - 9942ffb676fe
   - a96f3ad4e0d8
-  - ab208c87d973
   - de387b2b2803
   tool_panel_section_label: Assembly
 - name: metaspades
@@ -203,6 +208,7 @@ tools:
   - 81df4950d65b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_label: Assembly
 - name: refseq_masher
@@ -251,18 +257,20 @@ tools:
   owner: iuc
   revisions:
   - 635c90a27692
+  - a5055c0d190b
   - ed1becc01910
   tool_panel_section_label: Graph/Display Data
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
-  - e9005d1f3cfd
+  - 7d01da0b9e18
   tool_panel_section_label: Metagenomic Analysis
 - name: kleborate
   owner: iuc
   revisions:
   - 374b2e9ade86
   - '383036561810'
+  - 38ca9b5089b9
   - 959920e3e800
   - a7c43271312c
   tool_panel_section_label: Metagenomic Analysis
